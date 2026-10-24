@@ -1,3 +1,6 @@
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/e3be04c0-af0a-43e5-8db9-f29a4c1db8ab" />
+
+
 # Planner
 
 **Planner** — настольное приложение для Windows, предназначенное для управления напоминаниями и планирования повседневных задач с помощью ИИ.
