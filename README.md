@@ -25,7 +25,7 @@ Windows может предупредить о неизвестном издат
 - **Настройка интерфейса:** темы оформления и изменение ширины боковой панели.
 
 ## Настройка ИИ
-<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/b0128d6e-b3b4-41d3-8408-b89b0c15d434" />
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/3910bb31-acc1-4e67-b2b8-9fd7cb9bd431" />
 
 Для AI-функций требуется API-ключ совместимого провайдера.
 
